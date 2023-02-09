@@ -1,4 +1,4 @@
-![hidden words](https://github.com/ethanmsl/asynch_xplr/actions/workflows/test-poet.yml/badge.svg)
+![hidden words](https://github.com/ethanmsl/asynch_xplr/actions/workflows/test-poet.yml/badge.svg) [![website](https://github.com/ethanmsl/asynch_xplr/actions/workflows/pdoc-pub.yml/badge.svg)](https://github.com/ethanmsl/asynch_xplr/actions/workflows/pdoc-pub.yml)
 
 # [asyncio](https://docs.python.org/3/library/asyncio-task.html#coroutine) exploration repo (python)
 
