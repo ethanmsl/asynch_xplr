@@ -2,7 +2,8 @@
 ___main__.py
 """
 
+import asyncio
 
 from .main import main
 
-main()
+asyncio.run(main(2))

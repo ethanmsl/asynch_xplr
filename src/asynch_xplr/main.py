@@ -1,8 +1,13 @@
 """
 main
 """
+import asyncio
 
 
-def main() -> None:
-    """Main function"""
-    print("Hello world!")
+async def main(secs: int):
+    """
+    prints hello and world, with an asynch delay imbetween
+    """
+    print("hello")
+    await asyncio.sleep(secs)
+    print("world")
