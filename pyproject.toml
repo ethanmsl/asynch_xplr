@@ -14,7 +14,7 @@ packages = [{include = "asynch_xplr", from = "src"}]
 python = "^3.10"
 
 [tool.poetry.group.dev.dependencies]
-black = "^22.12.0"
+black = "^24.3.0"
 isort = "^5.12.0"
 pdoc = "^12.3.1"
 pylint = "^2.15.10"
